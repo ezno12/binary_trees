@@ -6,7 +6,7 @@
  * @parent: root of node.
  * @value: value in the node.
  *
- * Return: Always 0 (Success)
+ * Return: Binary tree or Null
  */
  binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
  {
