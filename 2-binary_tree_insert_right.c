@@ -1,4 +1,3 @@
-
 #include "binary_trees.h"
 /**
  * binary_tree_insert_right - function that inserts a node as the right-child
